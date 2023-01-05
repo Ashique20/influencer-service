@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "name": "Wedding Shoot",
+        "Fee": "8000",
+        "description": "I have been doing marage event shoot for last 2 years. I am experienced enough.I have a whole time to do this.I will be available until the party is if you hire Me",
+        "img": "https://i.ibb.co/dGDkr4v/1.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Cloth Brand Shoot",
+        "fee": "15000",
+        "description": "I have worked for three online brands yet.Which were Vlorax,Schizzo and Justice,which are pretty famous marchentice brands of our country.You ca alaso Hire me For Brand photoshoot"
+    },
+    {
+        "id": 3,
+        "name": "Reniew Photoshoot",
+        "fee": "5000",
+        "description": "I do photoshooting of reniew of school,colleges or any other business companies.I can be hired for Reniew Photo shoot too...",
+        "img": "https://i.ibb.co/Yh04YVw/3.jpg"
+    }]
+   
